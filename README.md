@@ -47,7 +47,7 @@ Crie um ambiente virtual (opcional) e instale as dependências:
 
 
 ```bash
-Copiar código
+
 pip install -r requirements.txt
 
 3. Executar o Aplicativo
@@ -58,7 +58,7 @@ Execute o Streamlit para rodar o aplicativo:
 
 
 ```bash
-Copiar código
+
 streamlit run arquivo.py
 Acesse o dashboard através de http://localhost:8501.
 
